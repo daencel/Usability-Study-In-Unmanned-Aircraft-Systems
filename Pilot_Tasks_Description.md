@@ -2,6 +2,15 @@
 
 This document defines each task with the items and stimuli needed and the scripts for any human interaction. Each pilot will perform 4 main tasks (Search, Landing, Distraction, Radio), with embedded stressor variants.
 
+## Contents
+
+- [Task 1 - Search Task](https://github.com/daencel/Usability-Study-In-Unmanned-Aircraft-Systems/edit/main/Pilot_Tasks_Description.md#task-1--search-task-time-pressure)
+- [Task 2 - Landing](https://github.com/daencel/Usability-Study-In-Unmanned-Aircraft-Systems/edit/main/Pilot_Tasks_Description.md#task-2--landing-cognitive-challenge)
+- [Task 3 - Distraction](https://github.com/daencel/Usability-Study-In-Unmanned-Aircraft-Systems/edit/main/Pilot_Tasks_Description.md#task-3--distraction-cognitive--people-approach-and-interaction)
+- [Task 4 - Radio](https://github.com/daencel/Usability-Study-In-Unmanned-Aircraft-Systems/edit/main/Pilot_Tasks_Description.md#task-4--radio-task-rapid-change-of-situation-via-radio--continued-distraction)
+- [Radio Scripts](https://github.com/daencel/Usability-Study-In-Unmanned-Aircraft-Systems/edit/main/Pilot_Tasks_Description.md#radio-scripts-for-task-4)
+- [Distraction Scripts](https://github.com/daencel/Usability-Study-In-Unmanned-Aircraft-Systems/edit/main/Pilot_Tasks_Description.md#distraction-scripts-for-task)
+
 ### Equipment checklist
 
 - Drone (DJI Matrice 4T) with all the setup.

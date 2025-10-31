@@ -128,13 +128,7 @@ Immediately after each pilot session:
 
 ### Randomization / Order permutations for 5 pilots
 
-We need five sequences (orders) to permute tasks across the five volunteers to reduce order effects.
-
-- Order 1 (PILOT 1): A → B → C → D
-- Order 2 (PILOT 2): B → D → A → C
-- Order 3 (PILOT 3): C → A → D → B
-- Order 4 (PILOT 4): D → C → B → A
-- Order 5 (PILOT 5): A → D → B → C
+We need five sequences (orders) to permute tasks across the five volunteers.
 
 ## Radio scripts for Task 4
 

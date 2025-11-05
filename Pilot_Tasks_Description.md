@@ -24,6 +24,12 @@ This document defines each task with the items and stimuli needed and the script
 - Consent forms
 - PC setup with iMotions installed
 
+### Required Personas for each flight
+- Pilot
+- iMotions operator (will gear up pilot and introduce them aswell)
+- Actor for scripts and tasks
+- Person in charge for speak aloud of previous flight
+
 ### Pre Sudy checklist
 
 What needs to be done before pilots arrive:
